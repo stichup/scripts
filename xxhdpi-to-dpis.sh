@@ -66,8 +66,3 @@ sips -z $LDPI_PXH $LDPI_PXW $XXHDPI_FILE --out $XXHDPI_FILE.ldpi > /dev/null 2>&
 
 echo "Done."
 
-#echo "xxhdpi - (height , width): ($XXHDPI_PXH , $XXHDPI_PXW)"
-#echo "xhdpi - (height , width): ($XHDPI_PXH , $XHDPI_PXW)"
-#echo "hdpi - (height , width): ($HDPI_PXH , $HDPI_PXW)"
-#echo "mdpi - (height , width): ($MDPI_PXH , $MDPI_PXW)"
-#echo "ldpi - (height, width): ($LDPI_PXH , $LDPI_PXW)"
